@@ -1,6 +1,9 @@
 # Gym_responsive_website
+\n
 Thapar Gym and Fitness
-Welcome to the Thapar Gym and Fitness website! This website is designed to provide information about the gym facilities and fitness programs offered at Thapar University. Whether you're a student looking to take a break from academics or seeking a tailored fitness program, we've got you covered.
+\n
+Welcome to the Thapar Gym and Fitness website! 
+\nThis website is designed to provide information about the gym facilities and fitness programs offered at Thapar University. Whether you're a student looking to take a break from academics or seeking a tailored fitness program, we've got you covered.
 
 Table of Contents
 About Us
